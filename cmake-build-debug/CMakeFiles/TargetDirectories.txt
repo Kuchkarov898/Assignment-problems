@@ -1,0 +1,8 @@
+/Users/o.kuchkarov/CLionProjects/problems/cmake-build-debug/CMakeFiles/problems.dir
+/Users/o.kuchkarov/CLionProjects/problems/cmake-build-debug/CMakeFiles/problem1.dir
+/Users/o.kuchkarov/CLionProjects/problems/cmake-build-debug/CMakeFiles/problem2.dir
+/Users/o.kuchkarov/CLionProjects/problems/cmake-build-debug/CMakeFiles/problem3.dir
+/Users/o.kuchkarov/CLionProjects/problems/cmake-build-debug/CMakeFiles/problem4.dir
+/Users/o.kuchkarov/CLionProjects/problems/cmake-build-debug/CMakeFiles/problem5.dir
+/Users/o.kuchkarov/CLionProjects/problems/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/o.kuchkarov/CLionProjects/problems/cmake-build-debug/CMakeFiles/rebuild_cache.dir
